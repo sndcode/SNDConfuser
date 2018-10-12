@@ -1,0 +1,14 @@
+C:\Users\win\Desktop\Protect.NET-master\Release\bin\dnlib.xml
+C:\Users\win\Desktop\Protect.NET-master\Release\bin\dnlib.dll
+C:\Users\win\Desktop\Protect.NET-master\Release\bin\dnlib.pdb
+C:\Users\win\Desktop\Protect.NET-master\src\obj\Release\dnlib.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Protect.NET-master\src\obj\Release\dnlib.dll
+C:\Users\win\Desktop\Protect.NET-master\src\obj\Release\dnlib.pdb
+C:\Users\admin\Desktop\SND Confuser\Release\bin\dnlib.xml
+C:\Users\admin\Desktop\SND Confuser\Release\bin\dnlib.dll
+C:\Users\admin\Desktop\SND Confuser\Release\bin\dnlib.pdb
+C:\Users\admin\Desktop\SND Confuser\src\obj\Release\dnlib.dll
+C:\Users\admin\Desktop\SND Confuser\src\obj\Release\dnlib.pdb
+C:\Users\admin\Desktop\SND Confuser\src\obj\Release\dnlib.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SND Confuser\dnlib_src\obj\Release\dnlib.dll
+C:\Users\admin\Desktop\SND Confuser\dnlib_src\obj\Release\dnlib.pdb

@@ -1,0 +1,6 @@
+C:\Users\win\Desktop\Protect.NET-master\Debug\bin\dnlib.xml
+C:\Users\win\Desktop\Protect.NET-master\Debug\bin\dnlib.dll
+C:\Users\win\Desktop\Protect.NET-master\Debug\bin\dnlib.pdb
+C:\Users\win\Desktop\Protect.NET-master\src\obj\Debug\dnlib.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Protect.NET-master\src\obj\Debug\dnlib.dll
+C:\Users\win\Desktop\Protect.NET-master\src\obj\Debug\dnlib.pdb

@@ -1,0 +1,42 @@
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Release\SNDC.exe
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Release\SNDC.pdb
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Release\dnlib.dll
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Release\dnlib.pdb
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Release\dnlib.xml
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SND Confuser.csprojAssemblyReference.cache
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SNDC.Properties.Resources.resources
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SND Confuser.csproj.GenerateResource.cache
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SND Confuser.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SND Confuser.csproj.CopyComplete
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SNDC.exe
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SNDC.pdb
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Release\SNDC.Forms.frmMain.resources
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\obj\Release\SND Confuser.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\obj\Release\SNDC.Forms.frmMain.resources
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\obj\Release\SNDC.Properties.Resources.resources
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\obj\Release\SND Confuser.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\bin\Release\SNDC.exe
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\bin\Release\SNDC.pdb
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\bin\Release\dnlib.dll
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\bin\Release\dnlib.pdb
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\bin\Release\dnlib.xml
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\obj\Release\SNDC.exe
+C:\Users\admin\Desktop\SND Confuser\Protect.NET\obj\Release\SNDC.pdb
+C:\Users\admin\Desktop\SND Confuser\confuser\bin\Release\SNDC.exe
+C:\Users\admin\Desktop\SND Confuser\confuser\bin\Release\SNDC.pdb
+C:\Users\admin\Desktop\SND Confuser\confuser\bin\Release\dnlib.dll
+C:\Users\admin\Desktop\SND Confuser\confuser\bin\Release\dnlib.pdb
+C:\Users\admin\Desktop\SND Confuser\confuser\bin\Release\dnlib.xml
+C:\Users\admin\Desktop\SND Confuser\confuser\obj\Release\SND Confuser.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SND Confuser\confuser\obj\Release\SNDC.Forms.frmMain.resources
+C:\Users\admin\Desktop\SND Confuser\confuser\obj\Release\SNDC.Properties.Resources.resources
+C:\Users\admin\Desktop\SND Confuser\confuser\obj\Release\SND Confuser.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SND Confuser\confuser\obj\Release\SNDC.exe
+C:\Users\admin\Desktop\SND Confuser\confuser\obj\Release\SNDC.pdb
+C:\Users\admin\Desktop\SND Confuser\confuser_src\obj\Release\SNDC.Forms.frmMain.resources
+C:\Users\admin\Desktop\SND Confuser\confuser_src\obj\Release\SNDC.Properties.Resources.resources
+C:\Users\admin\Desktop\SND Confuser\confuser_src\obj\Release\SND Confuser.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SND Confuser\confuser_src\obj\Release\SNDC.exe
+C:\Users\admin\Desktop\SND Confuser\confuser_src\obj\Release\SNDC.pdb
+C:\Users\admin\Desktop\SND Confuser\confuser_src\bin\Release\SNDC.exe
+C:\Users\admin\Desktop\SND Confuser\confuser_src\bin\Release\SNDC.pdb

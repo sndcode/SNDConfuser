@@ -1,0 +1,13 @@
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Debug\Protect.NET.exe
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Debug\Protect.NET.pdb
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Debug\dnlib.dll
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Debug\dnlib.pdb
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\bin\Debug\dnlib.xml
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.csprojAssemblyReference.cache
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.Forms.frmMain.resources
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.Properties.Resources.resources
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.csproj.GenerateResource.cache
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.csproj.CopyComplete
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.exe
+C:\Users\win\Desktop\Protect.NET-master\Protect.NET\obj\Debug\Protect.NET.pdb
