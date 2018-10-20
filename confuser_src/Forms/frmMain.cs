@@ -49,7 +49,7 @@ namespace SNDC.Forms
             try
             { 
                 WebClient wc = new WebClient();
-                byte [] users = wc.DownloadData("http://m1mk.de/auth/users.db");
+                byte [] users = wc.DownloadData("http://web/auth/users.db");
                 userdb = users.ToString();
             }
             catch(Exception e)
